@@ -1,5 +1,15 @@
 # Actividad 3 grupal: Explorando patrones ocultos – Detección de anomalías en datos
 
+<!-- academic-catalog:start -->
+**UNIR · Máster en Inteligencia Artificial · Aprendizaje automático no supervisado**
+
+Detección de valores inusuales en datos de corriente y tensión mediante media móvil, Z-score, Isolation Forest y Local Outlier Factor.
+
+**Tecnologías:** Python, scikit-learn, anomalías.
+
+[Ver todos mis proyectos académicos](https://github.com/cabamarcos/academic-projects)
+<!-- academic-catalog:end -->
+
 ## Objetivos
 
 Mediante este trabajo se pretende que pongas en práctica la aplicación de las **técnicas de detección de anomalías**. El objetivo es analizar si existen anomalías en el conjunto de datos aplicando técnicas **univariadas y multivariadas**. Debes detallar los pasos que hay que realizar para detectar valores inusuales.
